@@ -60,16 +60,18 @@ summary{
     background-color: grey;
     display: flex;
    padding: 6px;
-
 }
 summary p{
     color: white;
     font-weight: bold;
 }
-
+details ul{
+    margin-top: 12px;
+}
 details ul li{
     list-style: none;
     font-weight: 700;
+    margin-top: 5px;
 }
 
 footer{
